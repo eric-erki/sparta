@@ -45,7 +45,7 @@
         <rabbitmq.spark.version>0.5.1</rabbitmq.spark.version>
         <twitter.spark.version>2.1.0</twitter.spark.version>
         <redis.version>2.15</redis.version>
-        <async.http.version>1.8.17</async.http.version>
+        <async.http.version>1.9.0</async.http.version>
     </properties>
 
     <build>
